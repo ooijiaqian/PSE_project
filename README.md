@@ -5,10 +5,10 @@ SDG 3 – Good Health and Well-being
 
 Team Members
 - Jasmine Chan Jia Min – Product Owner
-- Ooi Jia Qian – Developer
-- Nicole Lim Jia Xin – Diagram designer
+- Ooi Jia Qian – GitHub Manager
+- Nicole Lim Jia Xin – Prototype Designer
 - Snowy Ng Xing Er - Scrum Master
-- Ng Run Xi - Prototype designer
+- Ng Run Xi - UML Designer
 
 Project Description
 HydrateMate is a mobile application prototype designed to help users track their daily water intake. 
