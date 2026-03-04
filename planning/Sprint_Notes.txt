@@ -1,0 +1,158 @@
+Project: HydrateMate
+Methodology: Agile Scrum
+
+🔵 Sprint 1 – Planning & Design Phase
+Sprint ID: SPR001
+
+Sprint Goal
+To establish the foundation of the project by defining the product vision and creating system design models.
+
+Sprint Planning
+During Sprint Planning, the team reviewed the Product Vision and initial user stories. The high-level requirements were transformed into design tasks.
+User stories were analyzed and converted into modelling tasks to prepare system structure before development.
+
+Sprint Backlog Tasks
+-Define Product Vision
+-Create Use Case Diagram
+-Create Class Diagram
+-Design Low Fidelity Wireframes
+
+Implementation Approach
+1. Product Vision
+- The team refined the vision, target users, business goals, and key features to align with SDG 3.
+
+2. Use Case Diagram
+- User stories were analyzed and grouped into system interactions. Main actor identified: User.
+Core use cases such as login, log water, set goal, and view history were defined.
+
+3. Class Diagram
+-Classes such as User, WaterLog, Badge, Notification were identified from the use cases.
+Attributes and relationships were defined.
+
+4. Low Fidelity Wireframes
+-Basic screen sketches were created to visualize layout and navigation flow.
+
+Sprint Review
+Completed:
+✔ Product Vision finalized
+✔ Use Case Diagram completed
+✔ Class Diagram completed
+✔ Low-fidelity wireframes created
+
+Sprint Retrospective
+
+What went well:
+Clear task division
+Good communication
+
+What can be improved:
+More detailed discussion before diagram creation
+
+🔵 Sprint 2 – Core Feature Design
+Sprint ID: SPR002
+
+Sprint Goal
+To design and implement core functional features in high-fidelity format.
+
+Sprint Planning
+User stories related to core hydration tracking were prioritized.
+Requirements were converted into specific UI and prototype tasks.
+
+Sprint Backlog Tasks
+-Design Login Page
+-Create High Fidelity Wireframes
+-Implement One Tap Water Logging
+-Implement Set Daily Goal Feature
+-Implement Cup Size Customization
+-Design Progress Display
+
+Implementation Approach
+Each feature was developed based on the functional requirements defined earlier.
+
+Example:
+FR1 → Login system
+FR2 → One Tap Water Logging
+FR3 → Set Daily Goal
+High-fidelity wireframes were created using Figma to simulate real app experience.
+
+Sprint Review
+Completed:
+✔ Login screen designed
+✔ Core tracking features implemented in prototype
+✔ Progress bar visualized
+
+Sprint Retrospective
+What went well:
+Clear mapping from requirement to feature
+
+What can be improved:
+Time estimation for design tasks
+
+🔵 Sprint 3 – Extended Features
+Sprint ID: SPR003
+
+Sprint Goal
+To enhance user engagement through gamification and additional features.
+
+Sprint Backlog Tasks
+-Add Water Facts Popup
+-Improve Progress Display
+-Develop Badge Collection Page
+-Develop View History Page
+-Implement Notification Feature
+-Implement Invite Friends / Streak Feature
+-Add Dark Mode Option
+
+Implementation Approach
+Gamification features were prioritized to increase user motivation.
+FR7 → Badge Collection
+FR8 → Invite Friends
+FR9 → Notification
+FR10 → Water Facts
+FR11 → Dark Mode
+Screens were connected in Figma prototype for better interaction simulation.
+
+Sprint Review
+Completed:
+✔ Badge system visualized
+✔ History page created
+✔ Dark mode implemented
+✔ Notification simulation added
+
+Sprint Retrospective
+
+What went well:
+Better coordination among team members
+
+What can be improved:
+Some features required re-design for better UI consistency
+
+🔵 Sprint 4 – Prototype Integration & Testing
+Sprint ID: SPR004
+
+Sprint Goal
+To integrate all features into a working clickable prototype and conduct testing.
+
+Sprint Backlog Tasks
+-Connect screens for full navigation
+-Develop interactive prototype (button linking between pages)
+-Conduct prototype testing
+-Collect feedback
+-Fix UI issues
+
+Implementation Approach
+All screens were linked in Figma to simulate a working mobile application.
+User testing was conducted among selected users. Feedback was documented and minor UI improvements were made.
+
+Sprint Review
+Completed:
+✔ Fully clickable prototype
+✔ Prototype testing conducted
+✔ Feedback collected
+
+Sprint Retrospective
+What went well:
+Prototype completed within timeline
+
+What can be improved:
+More time could be allocated for user testing
