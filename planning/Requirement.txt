@@ -1,0 +1,54 @@
+Project: HydrateMate
+SDG: Good Health and Well-Being (SDG 3)
+1. Requirement Gathering Approach
+The requirements for HydrateMate were gathered using the following methods:
+Brainstorming session among team members to identify hydration-related problems.
+Observation of daily lifestyle challenges faced by working adults.
+Review of existing water tracking applications to identify gaps and improvement areas.
+Creation of user stories to capture user needs from an end-user perspective.
+The user stories were then analyzed and transformed into structured functional and non-functional requirements.
+
+2. User Stories
+As a user, I want to log in with my email and password so that I can access my personal account.
+As a user, I want to log my water intake with one tap so that I can track my hydration quickly.
+As a user, I want to set a daily water goal so that I know how much I need to drink each day.
+As a user, I want to see a progress bar so that I can easily visualize how close I am to my goal.
+As a user, I want to view my drinking history so that I can track my habits over time.
+As a user, I want to customize my cup sizes and water volume so that logging matches my preferred drinking vessels.
+As a user, I want to collect badges for my achievements so that I feel motivated to stay consistent.
+As a user, I want to invite friends and see their streaks so that we can keep each other accountable.
+As a user, I want to receive smart notifications so that I remember to drink water at optimal times.
+As a user, I want to read interesting water facts so that I can learn about the benefits of hydration.
+As a user, I want to switch to dark mode so that I can use the app comfortably at night.
+3. Functional Requirements (FR)
+FR1: The system shall allow users to log in using email and password.
+FR2: The system shall allow users to log water intake with a single tap.
+FR3: The system shall allow users to set and update a daily water intake goal.
+FR4: The system shall display a visual progress bar showing percentage of daily goal achieved.
+FR5: The system shall store and display users’ historical water intake records.
+FR6: The system shall allow users to customize cup sizes and water volume.
+FR7: The system shall reward users with badges when milestones are achieved.
+FR8: The system shall allow users to invite friends and view their streak records.
+FR9: The system shall send smart notification reminders at scheduled times.
+FR10: The system shall display educational water facts within the application.
+FR11: The system shall provide a dark mode interface option.
+
+4. Non-Functional Requirements (NFR)
+NFR1 – Usability
+The application shall provide a simple and intuitive interface suitable for all age groups.
+NFR2 – Performance
+The application shall respond to user input within 3 seconds.
+NFR3 – Reliability
+User data shall be stored accurately without loss of records.
+NFR4 – Security
+User login credentials shall be protected and not visible to other users.
+NFR5 – Compatibility
+The prototype shall be designed for mobile platforms (Android/iOS simulation).
+NFR6 – Availability
+The application shall allow users to access their history at any time.
+
+5. Requirement Modeling
+The requirements are represented using:
+Use Case Diagram to illustrate user interactions with the system.
+Class Diagram to represent system structure including User, WaterLog, Badge, and Notification classes.
+These diagrams are included in the /design/ folder.
