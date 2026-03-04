@@ -20,6 +20,7 @@ As a user, I want to invite friends and see their streaks so that we can keep ea
 As a user, I want to receive smart notifications so that I remember to drink water at optimal times.
 As a user, I want to read interesting water facts so that I can learn about the benefits of hydration.
 As a user, I want to switch to dark mode so that I can use the app comfortably at night.
+
 3. Functional Requirements (FR)
 FR1: The system shall allow users to log in using email and password.
 FR2: The system shall allow users to log water intake with a single tap.
