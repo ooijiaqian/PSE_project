@@ -1,12 +1,13 @@
 Project: HydrateMate
 SDG: Good Health and Well-Being (SDG 3)
+
 1. Requirement Gathering Approach
 The requirements for HydrateMate were gathered using the following methods:
-Brainstorming session among team members to identify hydration-related problems.
-Observation of daily lifestyle challenges faced by working adults.
-Review of existing water tracking applications to identify gaps and improvement areas.
-Creation of user stories to capture user needs from an end-user perspective.
-The user stories were then analyzed and transformed into structured functional and non-functional requirements.
+-Brainstorming session among team members to identify hydration-related problems.
+-Observation of daily lifestyle challenges faced by working adults.
+-Review of existing water tracking applications to identify gaps and improvement areas.
+-Creation of user stories to capture user needs from an end-user perspective.
+-The user stories were then analyzed and transformed into structured functional and non-functional requirements.
 
 2. User Stories
 As a user, I want to log in with my email and password so that I can access my personal account.
