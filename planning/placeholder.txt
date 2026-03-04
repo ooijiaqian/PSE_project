@@ -1,0 +1,93 @@
+PRODUCT VISION DOCUMENT 
+Project: HydrateMate – Water Tracker App 
+SDG: Good Health and Well-Being (SDG 3) 
+Team Name: Four Five Course: 
+ITS64604 Principles of Software Engineering 
+Semester: Semester 1.5 
+Date: 13 February 2026
+
+TEAM MEMBERS
+Product Owner: Jasmine Chan Jia Min (0376429) 
+Scrum Master: Snowy Ng Xing Er (0378168) 
+Prototype Designer: Nicole Lim Jia Xin (0375547) 
+UML Designer: Ng Run Xi (0376816) 
+GitHub Manager: Ooi Jia Qian (0378175)
+
+	1	INTRODUCTION OF HYDRATEMATE
+HydrateMate is a gamified water intake tracking application designed . The app transforms the routine task of drinking water into a fun and rewarding experience through badge collection, streak tracking, and visual progress indicators.
+By making hydration engaging and interactive, HydrateMate aims to help students build consistent drinking habits, improve concentration and energy levels, and enhance overall well-being throughout their academic journey.
+
+	2	TARGET GROUP & NEEDS
+Target Groups and Their Needs:
+Office Workers
+	•	Sit for long hours at desks
+	•	Frequently forget to drink water
+	•	Experience headaches and eye strain from prolonged screen exposure
+Busy Parents
+	•	Focus heavily on childcare responsibilities
+	•	Often neglect their own hydration
+	•	Require reminders to maintain healthy habits
+Fitness Enthusiasts
+	•	Require increased hydration after exercise
+	•	Need accurate tracking of daily water intake
+Elderly
+	•	Often forget to drink water
+	•	Require gentle reminders
+	•	Higher risk of dehydration
+Healthcare Workers
+	•	Work long and demanding shifts
+	•	Limited time for self-care
+	•	Need structured hydration reminders
+Remote Workers / Work From Home (WFH)
+	•	Lack structured daily routine
+	•	Easily overlook basic needs while working
+
+	3	PRODUCT GOALS
+Make drinking water fun
+	•	Implement badge collection and streak systems
+Make logging easy
+	•	Enable one tap = one cup logging
+Keep users motivated
+	•	Provide visual progress bars and achievement feedback
+Remind users
+	•	Send push notifications for hydration reminders
+Show users progress
+	•	Provide weekly reports and analysis charts
+
+	4	BUSINESS GOALS
+Encourage Daily Logging
+	•	Target: 75% – 80% of users log water daily
+Maintain User Streaks
+	•	Target: Minimum 7 consecutive days
+Achieve Positive User Feedback
+	•	Target: 4–5 star rating
+Complete Functional Prototype
+	•	Target: Minimum 10 features by Week 5
+
+	5	KEY FEATURES
+One Tap Water Logging
+	•	Log water intake quickly using a single tap
+Set Daily Water Goal
+	•	Users can define their daily cup target
+Progress Display
+	•	Show percentage of daily goal achieved
+Earn Badges
+	•	Unlock rewards after reaching milestones
+Receive Notifications
+	•	Reminder alerts to drink water
+View History
+	•	Access previous daily records and analysis charts
+Log Different Cup Sizes
+	•	Small, medium, large, or custom cup options
+Customize Goal by Activity Level
+	•	Adjust water intake goals based on activity level
+View Badge Collection
+	•	Display earned and locked badges for motivation
+Compete with Friends
+	•	Leaderboard system to challenge friends
+Water Facts Popup
+	•	Display educational hydration facts while logging
+Streaks Display
+	•	Track consecutive days of achieving goal
+Dark Mode
+	•	User-friendly interface for night usage
