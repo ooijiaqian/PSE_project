@@ -1,0 +1,38 @@
+Project: HydrateMate
+Testing Stage: Sprint 4 – Prototype Testing
+
+1. Testing Overview
+During Sprint 4, prototype testing was conducted to evaluate the functionality and usability of the HydrateMate water intake tracker application. The main objective of the testing process was to ensure that the key features developed during previous sprints function correctly and that users can navigate through the application smoothly.
+The testing was performed using an interactive Figma prototype that allowed users to click buttons and navigate between different screens of the application.
+
+2. Features Tested
+The following features were reviewed during the testing process:
+Login function
+One-tap water logging
+Setting daily water goals
+Customizing water cup sizes
+Progress display
+Water facts pop-up
+Badge collection system
+Water intake history
+Notification reminders
+Invite friends for streak feature
+Dark mode option
+These features were tested to ensure that the prototype clearly demonstrates how the final system would function.
+
+3. Prototype Testing Results
+The results indicated that the prototype navigation worked effectively. Users were able to move smoothly between different pages of the application by clicking interactive buttons.
+The main features of the system were clearly presented, allowing users to understand how the final application would work in a real environment. Overall, the prototype successfully demonstrated the core functionality of the water intake tracker system.
+
+4. User Feedback
+User feedback was collected during the prototype testing session to evaluate the usability of the application.
+Most users commented that the interface was simple and easy to understand. The one-tap water logging feature was considered convenient because it allows users to quickly record their water intake without complicated steps.
+Users also found the progress display and badge collection features motivating, as they provide visual encouragement to maintain healthy hydration habits.
+The "Invite Friends for Streaks" feature was also positively received. Users believed this feature could encourage more people to join the application and stay motivated to maintain their hydration streaks together.
+
+5. Improvements Suggested
+During the testing session, some users suggested improvements to enhance usability.
+One key suggestion was to add a back button to certain pages so that users can return to the previous screen without frequently accessing the navigation menu. This improvement would make navigation more convenient and improve overall user experience.
+
+6. Summary
+Overall, the prototype testing demonstrated that the HydrateMate application concept is functional, easy to navigate, and understandable for users. The feedback received during testing provided useful insights for improving usability and refining the user interface.
