@@ -1,0 +1,63 @@
+Project: HydrateMate
+Development Methodology: Agile Scrum
+SDG: Good Health and Well-Being (SDG 3)
+1. Project Overview
+HydrateMate is a mobile application prototype designed to help users monitor and improve their daily water intake habits. The application supports Sustainable Development Goal (SDG) 3: Good Health and Well-Being by encouraging healthy hydration practices through reminders, progress tracking, and gamification features such as streaks and badges.
+The project follows an Agile Scrum approach combined with Software Development Life Cycle (SDLC) phases to ensure systematic development, collaboration, and continuous improvement.
+2. Development Methodology
+The development of HydrateMate follows the Agile Scrum framework. The project work is divided into several sprints where tasks are planned, developed, and reviewed progressively.
+Trello is used as the project management tool to manage tasks, track progress, and organize sprint activities. Tasks are represented as cards and move across stages such as "To Do", "Doing", and "Done".
+User stories are first created to capture user needs, and these stories are later converted into functional tasks during sprint planning.
+3. Requirement Gathering
+Requirements were gathered using several approaches:
+• Brainstorming among team members
+• Interviewing potential users about their hydration habits
+• Creating user stories to capture user needs
+• Reviewing similar hydration tracking applications
+The collected user stories were then converted into functional and non-functional requirements and documented in the requirement.txt file.
+These requirements serve as the foundation for the system design and prototype development.
+4. SDLC Phases in the Project
+The project development follows key SDLC phases to organize the workflow.
+Planning Phase
+In the planning phase, the team defined the product vision, project goals, and system requirements. The Trello board was created to manage project tasks and track progress using the Scrum approach.
+Project documentation such as the project plan, requirements, and sprint notes were prepared during this stage.
+Design Phase
+In the design phase, system models and interface designs were created.
+The design artifacts include:
+• Use Case Diagram
+• Class Diagram
+• Low-Fidelity Wireframes
+• High-Fidelity Wireframes
+• User Interface Mockups
+These design components help visualize system functionality and guide prototype development.
+Prototype Development Phase
+Based on the design artifacts, an interactive prototype was developed using Figma. The prototype simulates the functionality of the application and allows users to navigate between screens by clicking buttons.
+Core features such as login, water logging, goal setting, and progress display were implemented during this phase.
+Testing Phase
+Prototype testing was conducted to evaluate usability and functionality. Users interacted with the clickable prototype and provided feedback on the application interface and navigation.
+Feedback collected during testing was documented and used to improve the prototype design.
+Finalization Phase
+In the final stage, the prototype was finalized and all system features were integrated into a complete interactive flow. Screenshots of the final prototype and a summary of the project results were documented.
+The final prototype demonstrates how HydrateMate can help users track their daily water intake and maintain healthy hydration habits.
+5. GitHub Repository Organization
+To maintain a clear development structure, project files were organized into several folders in the GitHub repository.
+/planning/
+This folder contains project management and documentation files such as:
+• Project Plan
+• Trello links
+• Requirements documentation
+• Sprint Notes
+/design/
+This folder stores system design artifacts including:
+• Use Case Diagram drafts
+• Class Diagram drafts
+• Wireframes
+• UI mockups and other design diagrams
+/testing/
+This folder contains testing-related documents such as:
+• Prototype feedback
+• Notes from user testing sessions
+/final/
+This folder contains the final project deliverables including:
+• Final prototype screenshots
+• Summary of results
