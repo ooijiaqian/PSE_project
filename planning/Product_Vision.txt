@@ -1,16 +1,16 @@
-PRODUCT VISION DOCUMENT 
-Project: HydrateMate – Water Tracker App 
-SDG: Good Health and Well-Being (SDG 3) 
+PRODUCT VISION DOCUMENT
+Project: HydrateMate – Water Tracker App
+SDG: Good Health and Well-Being (SDG 3)
 Team Name: Four Five Course: 
-ITS64604 Principles of Software Engineering 
+ITS64604 Principles of Software Engineering
 Semester: Semester 1.5 
 Date: 13 February 2026
 
 TEAM MEMBERS
-Product Owner: Jasmine Chan Jia Min (0376429) 
-Scrum Master: Snowy Ng Xing Er (0378168) 
-Prototype Designer: Nicole Lim Jia Xin (0375547) 
-UML Designer: Ng Run Xi (0376816) 
+Product Owner: Jasmine Chan Jia Min (0376429)
+Scrum Master: Snowy Ng Xing Er (0378168)
+Prototype Designer: Nicole Lim Jia Xin (0375547)
+UML Designer: Ng Run Xi (0376816)
 GitHub Manager: Ooi Jia Qian (0378175)
 
 	1	INTRODUCTION OF HYDRATEMATE
