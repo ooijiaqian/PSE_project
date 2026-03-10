@@ -1,0 +1,38 @@
+Project: HydrateMate
+
+1. Testing Objective
+
+The purpose of the user testing session was to evaluate the usability and navigation flow of the HydrateMate prototype. The testing aimed to observe how users interact with the application and identify any usability issues.
+
+2. Testing Participants
+
+The prototype testing session involved several potential users who were asked to interact with the clickable Figma prototype.
+
+3. Testing Tasks
+
+Participants were asked to perform several tasks in the prototype, including:
+
+- Log in to the application
+- Log water intake using the one-tap logging feature
+- Log different cup sizes
+- Set a daily water goal
+- Customize goal by activity level
+- View progress display
+- View badge collection
+- Compete with friends
+- Water facts popup
+- Streaks display
+- Check water intake history
+- Explore settings and dark mode
+
+4. Observations
+
+During the testing session, most users were able to navigate through the prototype without major difficulties. The one-tap water logging feature was quickly understood by users, and they were able to complete the task efficiently.
+
+However, some users experienced slight confusion when trying to return to previous pages because a back button was not initially available.
+
+5. Key Findings
+
+The testing results showed that the application interface is generally simple and user-friendly. Users were able to understand the main features of the system and complete tasks successfully.
+
+Based on user observations, improvements such as adding back buttons were implemented to enhance navigation and usability.
